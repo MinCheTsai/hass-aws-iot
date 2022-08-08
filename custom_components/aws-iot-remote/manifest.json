@@ -1,0 +1,13 @@
+{
+  "domain": "aws-iot",
+  "name": "AWS IoT Remote",
+  "config_flow": true,
+  "documentation": "https://github.com/minche-tsai/hass-aws-iot-remote",
+  "issue_tracker": "https://github.com/minche-tsai/hass-aws-iot-remote/issues",
+  "codeowners": ["@minche-tsai"],
+  "dependencies": [],
+  "requirements": ["bleak>=0.15.0"],
+  "version": "1.1.0",
+  "iot_class": "local_polling",
+  "loggers": ["bleak"]
+}

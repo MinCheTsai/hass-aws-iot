@@ -1,0 +1,5 @@
+{
+  "name": "AWS IoT Remote",
+  "render_readme": true,
+  "homeassistant": "2022.8.0"
+}
