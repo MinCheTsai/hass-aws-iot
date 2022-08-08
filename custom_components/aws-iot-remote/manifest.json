@@ -1,5 +1,5 @@
 {
-  "domain": "hass-aws-iot-remote",
+  "domain": "aws-iot-remote",
   "name": "AWS IoT Remote",
   "config_flow": true,
   "documentation": "https://github.com/MinCheTsai/hass-aws-iot-remote",
