@@ -1,3 +1,3 @@
-# Home Assistant custom component for AWS IoT Remote
+# Home Assistant custom component for AWS IoT Integration
 
-This is a custom component for Home Assistant that allows the AWS IoT remote.
+This is a custom component for Home Assistant that allows the AWS IoT integration.
